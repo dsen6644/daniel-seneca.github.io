@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel Seneca"
+title                    : ""
 title_separator          : "-"
 name                     : "Daniel Seneca"
 description              : "Data Analyst Portfolio"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : "6377595/d-sen"
   steam            : 
   tumblr           :
-  twitter          : "DanSeneca"
+  twitter          : "daniel_seneca"
   vine             :
   weibo            :
   xing             :
